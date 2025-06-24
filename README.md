@@ -12,3 +12,8 @@ curl -sSL https://raw.githubusercontent.com/MetaBooy/rust-install/refs/heads/mai
 ```
 source <(wget -qO- source <(wget -qO- https://raw.githubusercontent.com/metabooy/installation/main/foundry.sh)
 ```
+# 📥 Install Git with One Command
+Run this in your terminal:
+```
+curl -sSL https://raw.githubusercontent.com/MetaBooy/nodeguide/refs/heads/main/git.sh | bash
+```
