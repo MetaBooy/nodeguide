@@ -6,3 +6,6 @@ This script installs Rust, configures the environment, and verifies the toolchai
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/metabooy/installation/main/rust.sh | bash
+
+
+rust.sh
